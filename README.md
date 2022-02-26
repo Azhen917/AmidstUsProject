@@ -1,4 +1,4 @@
-# AdmistUsProject
+# Amidst Us Project
 
 You and your group of astronaut friends are on a spaceship! Fun! However, you are not completely sure you can trust some of them... kinda sus... There seems to be a few Impostors onboard, trying to sabotage you and your crew. Your job is to analyze the players and find the impostors before it is too late! 
 
